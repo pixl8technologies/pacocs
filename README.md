@@ -1,2 +1,1 @@
-# pacocs
-# pacocs
+# Paco Catholic School Automation System
